@@ -1,70 +1,83 @@
-# Getting Started with Create React App
+# Dashboard
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project focuses on the development of gaming dashboard using Reactjs
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Technologies](#technologies)
+- [Setup](#setup)
+- [screenshot](#screenshot)
 
-### `npm start`
+## Technologies
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Project is created with:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Reactjs
+- Bootstrap
+- Fontawsome
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Setup
 
-### `npm run build`
+To run this project:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+```
+* Clone the repository
+* Run npm install
+* npm start
+```
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## screenshot
+1.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![pc1](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/4e9559bb-4b88-40c5-b76b-0bfd3e289d68)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+2.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+![pc2](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/1364c207-7ce5-42a5-a46f-3eb57548ed13)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3.
 
-### Code Splitting
+![pc3](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/24cbed20-e4be-4845-9573-730ced0b86f4)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+4.
 
-### Making a Progressive Web App
+![pc4](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/ff120970-b1d7-4da5-b089-7d660a32c70d)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+5.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+![pc5](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/724194df-503a-4398-a1d0-01694aa6a42f)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+6.
 
-### `npm run build` fails to minify
+![mob1](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/c1ea7dce-0aaa-4191-8818-f40243f52162)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+7.
+
+![mob2](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/b0b5f065-61e3-4f53-9c80-0be055b0bbd3)
+
+8.
+
+![mob3](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/072b9b34-4d84-42ab-b646-eda979d20494)
+
+9.
+
+
+![mob4](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/ea43e003-f58e-49c6-b73a-8e31dce2e157)
+
+10.
+![mob5](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/0eca8839-3a58-40a3-b6be-91e41b96f26e)
+
+11.
+
+![mob6](https://github.com/ASHIQNC/woxro_machine-test/assets/81138318/5f97c14a-7a97-43c5-b850-65f6e7f9169e)
