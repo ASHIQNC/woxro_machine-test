@@ -1,0 +1,226 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.main_home {
+  width: 100%;
+  display: flex;
+  background-color: black;
+  flex-direction: column;
+}
+.main_image {
+  width: 84%;
+  height: 500px;
+}
+.card__style {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 60px;
+  margin-top: 30px;
+}
+.title__main {
+  font-size: 25px;
+  color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.imgcard {
+  width: 35rem;
+}
+.visit__btn {
+  width: 30%;
+}
+.title__head {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+h4 {
+  padding: 6rem;
+}
+.title1 {
+  color: #ffffff;
+  max-width: 74%;
+  font-size: 18px;
+  text-align: center;
+}
+.title5 {
+  margin-top: 2rem;
+}
+.title3 {
+  margin-left: 20px;
+  width: 50%;
+}
+.close-button {
+  background-color: transparent;
+  border: none;
+  font-size: 44px;
+  cursor: pointer;
+  transition: transform 0.3s ease;
+}
+
+.close-button.rotate {
+  transform: rotate(90deg);
+}
+.card__discription__style {
+  color: #ffffff;
+  text-align: center;
+}
+.title4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: #ffffff;
+}
+.main_btns {
+  width: 100%;
+}
+.contribution__style {
+  width: 70%;
+  text-align: center;
+}
+.footer__style {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: #ffffff;
+}
+.footer__discription__style {
+  width: 52%;
+  text-align: center;
+}
+.main_btns1 {
+  width: 21%;
+  height: 49px;
+}
+.game__card__Style {
+  width: 18rem;
+}
+.card__sub-discription__style {
+  color: #ffffff;
+  text-align: center;
+}
+
+/* mobile */
+@media screen and (min-width: 220px) and (max-width: 575px) {
+  .main_image {
+    width: 85%;
+    height: 337px;
+  }
+  .main_btns {
+    flex-direction: column;
+    width: 100%;
+  }
+  .main_btns1 {
+    margin-bottom: 15px;
+    width: 71%;
+  }
+  .title__main {
+    font-size: 10px;
+  }
+  .visit__btn {
+    width: 56%;
+  }
+  .title1 {
+    font-size: 0.8rem;
+    max-width: 88%;
+  }
+  .title3 {
+    margin-left: 20px;
+    width: 100%;
+    flex-direction: column;
+  }
+  .card__image__wrapper {
+    flex-direction: column;
+  }
+
+  .title5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .card__style {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 60px;
+    margin-top: 30px;
+  }
+  .imgcard {
+    width: 35rem;
+  }
+  h4 {
+    font-size: 1rem;
+  }
+
+  .close-button {
+    font-size: 25px;
+  }
+  .contribution__style {
+    width: 92%;
+  }
+  .footer__discription__style {
+    width: 92%;
+  }
+
+  .contribution__engagement__style {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 50px;
+  }
+  .card__sub-discription__style {
+    max-width: 48%;
+  }
+  .footer__sub-headeing {
+    text-align: center;
+  }
+}
+
+@media screen and (min-width: 576px) and (max-width: 984px) {
+  .title__main {
+    font-size: 18px;
+  }
+  .main_image {
+    width: 95%;
+  }
+  .title1 {
+    width: 72%;
+  }
+  .card__image__wrapper {
+    flex-direction: column;
+  }
+  .game__card__Style {
+    width: 26rem;
+  }
+  .visit__btn {
+    width: 57%;
+  }
+  .contribution__header__style {
+    font-size: 54px;
+  }
+  .contribution__style {
+    width: 87%;
+    font-size: 20px;
+    margin-left: 35px;
+  }
+  .title3 {
+    width: 100%;
+  }
+  .title5 {
+    text-align: center;
+  }
+  .footer__discription__style {
+    width: 90%;
+  }
+  .main_btns1 {
+    width: 40%;
+  }
+}
